@@ -13,9 +13,9 @@ function Experience() {
         Pipelines.
       </p>
       <p>
-        A cloud migration project that we implemented has saved a potential amount of 11,440.70
-        USDs in the company's TCO. Currently, we are using prebaking and boothstrapping strategy for
-        deployments.
+        We are currently deploying Infrastructure of a 3-Tier Project which includes m6large series
+        for app server and r series for DB server for UAT. Once server configuration done we start
+        implementing ASGs & LBs.
       </p>
       <h3>2021 AUTOMATING DEPLOYMENT OF REDDIT USING CI/CD</h3>
       <p>
