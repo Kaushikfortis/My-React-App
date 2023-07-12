@@ -7,7 +7,7 @@ import Skills from './Skills';
 function App() {
   const githubRepoLink = 'https://github.com/Kaushikfortis';
   const certificationsLink =
-    'https://drive.google.com/drive/folders/1qv9a_d1xypf1WWS8Eh8EFUMWVk-JFI6-?usp=sharing';
+    'https://www.linkedin.com/in/kaushik-pandilwar-12aa87185';
 
   const [currentPage, setCurrentPage] = useState('home');
 
