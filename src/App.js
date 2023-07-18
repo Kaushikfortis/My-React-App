@@ -28,10 +28,10 @@ function App() {
           <section>
             <h3>About Me</h3>
             <p>
-              Welcome to my website!  I operate in an exciting space at the intersection 
-               of finance and technology development. Entrepreneurial Spirit. Relentless 
-                 Persuit of Innovation. Opportunities to explore new Ideas. Here Extraor
-                   -dinary ideas come together to solve complex financial problems through
+              Welcome to my website! I operate in an exciting space at the intersection
+               of finance and technology development. Entrepreneurial Spirit. Relentless
+                 Persuit of Innovation. Opportunities to explore new Ideas. Here
+                  Extraordinary ideas come together to solve complex financial problems through
                    analytical rigor and expecptional programming skills.
                      
             </p>
